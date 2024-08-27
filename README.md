@@ -1,5 +1,6 @@
 # Sensitivity-of-Neutrino-Mass-Ordering-in-JUNO-Experiment
 
+This repository includes the report and reference papers from the group project I completed with four other students at the 8th Vietnam School on Neutrinos.
 
 ## Project Overview
 
@@ -17,7 +18,7 @@
 - **Spectrum Smearing**: Account for detector resolution effects.
 - **Sensitivity**: Predict JUNO's sensitivity to mass ordering over time.
 
-## Technologies
+## Languages
 
 - Python
 
