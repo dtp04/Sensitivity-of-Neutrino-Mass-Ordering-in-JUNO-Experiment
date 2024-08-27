@@ -1,8 +1,7 @@
 # Sensitivity-of-Neutrino-Mass-Ordering-in-JUNO-Experiment
 
-Project Overview
-
-    Objective: Determine the neutrino mass ordering (normal vs. inverted hierarchy) by analyzing the energy spectrum of anti-electron neutrinos from nuclear reactors using the JUNO detector.
+##Project Overview
+  Objective: Determine the neutrino mass ordering (normal vs. inverted hierarchy) by analyzing the energy spectrum of anti-electron neutrinos from nuclear reactors using the JUNO detector.
     Method: Compare oscillation patterns, flux, and cross-section to determine the mass hierarchy.
     Chi-Square Analysis: Evaluate the difference between normal and inverted hierarchy energy spectra using statistical methods.
     Comparison: Insights are drawn by comparing JUNO with long-baseline experiments (NOvA, T2K, DUNE, Hyper-K).
