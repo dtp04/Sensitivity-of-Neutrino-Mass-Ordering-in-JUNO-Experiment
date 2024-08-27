@@ -1,6 +1,6 @@
 # Sensitivity-of-Neutrino-Mass-Ordering-in-JUNO-Experiment
 
-This repository includes the report and reference papers from the group project I completed with four other students at the 8th Vietnam School on Neutrinos.
+This repository includes the report from the group project I completed with four other students at the 8th Vietnam School on Neutrinos.
 
 **Objective**: Determine the neutrino mass ordering (normal vs. inverted hierarchy) by analyzing the energy spectrum of anti-electron neutrinos from nuclear reactors using the JUNO detector.
 
