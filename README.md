@@ -10,8 +10,4 @@ This repository includes the report and reference papers from the group project 
 
 **Comparison**: Insights are drawn by comparing JUNO with long-baseline experiments (NOvA, T2K, DUNE, Hyper-K).
 
-**Neutrino Oscillation**: Analyze neutrino oscillation parameters and calculate survival probabilities.
-**Spectrum Smearing**: Account for detector resolution effects.
-**Sensitivity**: Predict JUNO's sensitivity to mass ordering over time.
-
-**Languages**: Python
+**Language**: Python
