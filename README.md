@@ -8,6 +8,4 @@ This repository includes the final presentation from the group project I complet
 
 **Chi-Square Analysis**: Evaluate the difference between normal and inverted hierarchy energy spectra using statistical methods.
 
-**Comparison**: Insights are drawn by comparing JUNO with long-baseline experiments (NOvA, T2K, DUNE, Hyper-K).
-
-**Language**: Python
+**Comparison**: Compare JUNO with long-baseline experiments (NOvA, T2K, DUNE, Hyper-K).
